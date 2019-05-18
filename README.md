@@ -19,4 +19,9 @@ css : sass
 `npm install`
 `npm start`
 
+## To Execute this Project
+1. Download the whole file.
+2. Import npm by `npm install`.
+3. Start the project by `npm start`
+4. Open http://localhost:3000/
 
