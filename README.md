@@ -9,15 +9,15 @@ view : ejs
 css : sass
 
 ## How this was made?
-`mkdir Express`
-`cd Express`
-`npm init`
-`npm install -g express`
-`npm install -g express-generator`
-`express --view=ejs --css=sass --git ExpressTemplate`
-`cd ExpressTemplate`
-`npm install`
-`npm start`
+1. `mkdir Express`
+2. `cd Express`
+3. `npm init`
+4. `npm install -g express`
+5. `npm install -g express-generator`
+6. `express --view=ejs --css=sass --git ExpressTemplate`
+7. `cd ExpressTemplate`
+8. `npm install`
+9. `npm start`
 
 ## To Execute this Project
 1. Download the whole file.
