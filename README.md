@@ -21,7 +21,8 @@ css : sass
 
 ## To Execute this Project
 1. Download or `git clone https://github.com/Masumi-M/ExpressTemplate.git`.
-2. Import npm by `npm install`.
-3. Start the project by `npm start`
-4. Open http://localhost:3000/
+2. Change the directory to ExpressTemplate by `cd ExpressTemplate`.
+3. Import npm by `npm install`.
+4. Start the project by `npm start`
+5. Open http://localhost:3000/
 
